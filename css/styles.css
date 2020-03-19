@@ -1,0 +1,20 @@
+body {
+  background-color: #f0f5f9;
+}
+
+h1, h3 {
+  color: #52616b;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #52616b;
+  border-width: 4px;
+  width: 5%;
+}
+
+.samSelfie{
+  height: 160px;
+  width: 160px;
+}
